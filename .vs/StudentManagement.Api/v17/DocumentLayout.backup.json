@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Dotnet Mini Projects\\StudentManagement.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BBA3C20-1989-4C06-825F-D0EF1D92FD16}|StudentManagement.Api\\StudentManagement.Api.csproj|e:\\dotnet mini projects\\studentmanagement.api\\studentmanagement.api\\repositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BBA3C20-1989-4C06-825F-D0EF1D92FD16}|StudentManagement.Api\\StudentManagement.Api.csproj|solutionrelative:studentmanagement.api\\repositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BBA3C20-1989-4C06-825F-D0EF1D92FD16}|StudentManagement.Api\\StudentManagement.Api.csproj|e:\\dotnet mini projects\\studentmanagement.api\\studentmanagement.api\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BBA3C20-1989-4C06-825F-D0EF1D92FD16}|StudentManagement.Api\\StudentManagement.Api.csproj|solutionrelative:studentmanagement.api\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BBA3C20-1989-4C06-825F-D0EF1D92FD16}|StudentManagement.Api\\StudentManagement.Api.csproj|e:\\dotnet mini projects\\studentmanagement.api\\studentmanagement.api\\common\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BBA3C20-1989-4C06-825F-D0EF1D92FD16}|StudentManagement.Api\\StudentManagement.Api.csproj|solutionrelative:studentmanagement.api\\common\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BBA3C20-1989-4C06-825F-D0EF1D92FD16}|StudentManagement.Api\\StudentManagement.Api.csproj|e:\\dotnet mini projects\\studentmanagement.api\\studentmanagement.api\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BBA3C20-1989-4C06-825F-D0EF1D92FD16}|StudentManagement.Api\\StudentManagement.Api.csproj|solutionrelative:studentmanagement.api\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BBA3C20-1989-4C06-825F-D0EF1D92FD16}|StudentManagement.Api\\StudentManagement.Api.csproj|e:\\dotnet mini projects\\studentmanagement.api\\studentmanagement.api\\dto\\readstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BBA3C20-1989-4C06-825F-D0EF1D92FD16}|StudentManagement.Api\\StudentManagement.Api.csproj|solutionrelative:studentmanagement.api\\dto\\readstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BBA3C20-1989-4C06-825F-D0EF1D92FD16}|StudentManagement.Api\\StudentManagement.Api.csproj|e:\\dotnet mini projects\\studentmanagement.api\\studentmanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8BBA3C20-1989-4C06-825F-D0EF1D92FD16}|StudentManagement.Api\\StudentManagement.Api.csproj|solutionrelative:studentmanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BBA3C20-1989-4C06-825F-D0EF1D92FD16}|StudentManagement.Api\\StudentManagement.Api.csproj|e:\\dotnet mini projects\\studentmanagement.api\\studentmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BBA3C20-1989-4C06-825F-D0EF1D92FD16}|StudentManagement.Api\\StudentManagement.Api.csproj|solutionrelative:studentmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BBA3C20-1989-4C06-825F-D0EF1D92FD16}|StudentManagement.Api\\StudentManagement.Api.csproj|e:\\dotnet mini projects\\studentmanagement.api\\studentmanagement.api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BBA3C20-1989-4C06-825F-D0EF1D92FD16}|StudentManagement.Api\\StudentManagement.Api.csproj|solutionrelative:studentmanagement.api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BBA3C20-1989-4C06-825F-D0EF1D92FD16}|StudentManagement.Api\\StudentManagement.Api.csproj|e:\\dotnet mini projects\\studentmanagement.api\\studentmanagement.api\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BBA3C20-1989-4C06-825F-D0EF1D92FD16}|StudentManagement.Api\\StudentManagement.Api.csproj|solutionrelative:studentmanagement.api\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BBA3C20-1989-4C06-825F-D0EF1D92FD16}|StudentManagement.Api\\StudentManagement.Api.csproj|e:\\dotnet mini projects\\studentmanagement.api\\studentmanagement.api\\middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BBA3C20-1989-4C06-825F-D0EF1D92FD16}|StudentManagement.Api\\StudentManagement.Api.csproj|solutionrelative:studentmanagement.api\\middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "E:\\Dotnet Mini Projects\\StudentManagement.Api\\StudentManagement.Api\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Api\\Services\\StudentService.cs",
+              "ToolTip": "E:\\Dotnet Mini Projects\\StudentManagement.Api\\StudentManagement.Api\\Services\\StudentService.cs",
+              "RelativeToolTip": "StudentManagement.Api\\Services\\StudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T04:58:48.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "E:\\Dotnet Mini Projects\\StudentManagement.Api\\StudentManagement.Api\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Api\\Controllers\\StudentController.cs",
+              "ToolTip": "E:\\Dotnet Mini Projects\\StudentManagement.Api\\StudentManagement.Api\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentManagement.Api\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T04:20:22.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Dotnet Mini Projects\\StudentManagement.Api\\StudentManagement.Api\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Api\\Program.cs",
+              "ToolTip": "E:\\Dotnet Mini Projects\\StudentManagement.Api\\StudentManagement.Api\\Program.cs",
+              "RelativeToolTip": "StudentManagement.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T02:36:39.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Dotnet Mini Projects\\StudentManagement.Api\\StudentManagement.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentManagement.Api\\appsettings.json",
+              "ToolTip": "E:\\Dotnet Mini Projects\\StudentManagement.Api\\StudentManagement.Api\\appsettings.json",
+              "RelativeToolTip": "StudentManagement.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-29T03:46:13.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReadStudentDto.cs",
+              "DocumentMoniker": "E:\\Dotnet Mini Projects\\StudentManagement.Api\\StudentManagement.Api\\DTO\\ReadStudentDto.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Api\\DTO\\ReadStudentDto.cs",
+              "ToolTip": "E:\\Dotnet Mini Projects\\StudentManagement.Api\\StudentManagement.Api\\DTO\\ReadStudentDto.cs",
+              "RelativeToolTip": "StudentManagement.Api\\DTO\\ReadStudentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T06:04:13.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "E:\\Dotnet Mini Projects\\StudentManagement.Api\\StudentManagement.Api\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Api\\Repositories\\StudentRepository.cs",
+              "ToolTip": "E:\\Dotnet Mini Projects\\StudentManagement.Api\\StudentManagement.Api\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "StudentManagement.Api\\Repositories\\StudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T06:07:25.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "E:\\Dotnet Mini Projects\\StudentManagement.Api\\StudentManagement.Api\\Common\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Api\\Common\\ApiResponse.cs",
+              "ToolTip": "E:\\Dotnet Mini Projects\\StudentManagement.Api\\StudentManagement.Api\\Common\\ApiResponse.cs",
+              "RelativeToolTip": "StudentManagement.Api\\Common\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T05:34:01.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "E:\\Dotnet Mini Projects\\StudentManagement.Api\\StudentManagement.Api\\Services\\IStudentService.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Api\\Services\\IStudentService.cs",
+              "ToolTip": "E:\\Dotnet Mini Projects\\StudentManagement.Api\\StudentManagement.Api\\Services\\IStudentService.cs",
+              "RelativeToolTip": "StudentManagement.Api\\Services\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T05:57:25.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "E:\\Dotnet Mini Projects\\StudentManagement.Api\\StudentManagement.Api\\Repositories\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Api\\Repositories\\IStudentRepository.cs",
+              "ToolTip": "E:\\Dotnet Mini Projects\\StudentManagement.Api\\StudentManagement.Api\\Repositories\\IStudentRepository.cs",
+              "RelativeToolTip": "StudentManagement.Api\\Repositories\\IStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T06:06:55.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "E:\\Dotnet Mini Projects\\StudentManagement.Api\\StudentManagement.Api\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Api\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "E:\\Dotnet Mini Projects\\StudentManagement.Api\\StudentManagement.Api\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "StudentManagement.Api\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAArwDgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T03:17:12.02Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
